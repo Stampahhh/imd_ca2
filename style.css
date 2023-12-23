@@ -93,7 +93,6 @@ td {
 
 footer {
     background-color: #D5BDAF;
-    /* Adjust as per your color scheme */
     color: #EDEDE9;
     padding: 20px 0;
 }
@@ -101,14 +100,11 @@ footer {
 footer .social-icon {
     margin: 0 10px;
     color: #E3D5CA;
-    /* Adjust as per your color scheme */
     font-size: 24px;
-    /* Adjust size as needed */
 }
 
 footer .social-icon:hover {
     color: #F5EBE0;
-    /* Adjust as per your color scheme */
 }
 
 footer a {
